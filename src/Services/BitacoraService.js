@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 export class BitacoraService{
-    baseUrl = "http://localhost:8089/";
+    baseUrl = "https://springbootback2.herokuapp.com/";
 
 
     getAllBitacora(){
